@@ -3,7 +3,7 @@ Files from DepMap Public 24Q4 corresponding to the effects a gene has on a cell-
 CRISPRGeneEffect.csv and D2 combined gene dep scores.csv files. Download the data from link inside the python files, and also run the jupyter notebook to create the cencer dependency map. 
 
 
-# [Notes: Why gene gene correlation are different in two knock down techniques?]
+# Notes: Why gene gene correlation are different in two knock down techniques?
 
 ***1.	The RNAi screen had a specific pipeline developed to account for off-target effects of RNAi (DEMETER2). Differences between the screens could as a result be due to some implicit biases made in the RNAi screen processing that are unreflective of the underlying biology. vice versa for CRISPR.***
 
