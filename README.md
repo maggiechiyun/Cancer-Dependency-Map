@@ -4,7 +4,7 @@ CRISPRGeneEffect.csv and D2 combined gene dep scores.csv files.
 
 Notes: Why gene gene correlation are different in two knock down techniques?
 
-***1.	The RNAi screen had a specific pipeline developed to account for off-target effects of RNAi (DEMETER2). Differences between the screens could as a result be due to some implicit biases made in the RNAi screen processing that are unreflective of the underlying biology. vice versa for CRISPR.
+***1.	The RNAi screen had a specific pipeline developed to account for off-target effects of RNAi (DEMETER2). Differences between the screens could as a result be due to some implicit biases made in the RNAi screen processing that are unreflective of the underlying biology. vice versa for CRISPR.***
 
 ***2.   These methods aim at different steps within the central dogma of biology, those being DNA for CRISPR and RNA for RNAi. With a successful gene edit in the former you would not expect any expression of the target gene whereas there may be incomplete interference in the latter.***
 
