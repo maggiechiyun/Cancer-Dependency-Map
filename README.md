@@ -2,9 +2,12 @@
 Files from DepMap Public 24Q4 corresponding to the effects a gene has on a cell-line’s growth in CRISPR knockout and RNAi screens, respectively.
 CRISPRGeneEffect.csv and D2 combined gene dep scores.csv files.
 
-***Notes:
-<img width="500" height="346" alt="image" src="https://github.com/user-attachments/assets/e590b1e6-adcc-47ea-a30c-15c5ad12030d" />
-![Uploading image.png…]()
+***Notes: # Why gene gene correlation are different in two knock down techniques?
+
+***1.	The RNAi screen had a specific pipeline developed to account for off-target effects of RNAi (DEMETER2). Differences between the screens could as a result be due to some implicit biases made in the RNAi screen processing that are unreflective of the underlying biology. You could also aim in the other direction: while CRISPR screens are less subject to off-target effects, they do still happen. You could argue therefore that the detections in CRISPR that weren’t detected in RNAi could be an off target effect that was accounted for in one modality but not in the other.***
+
+***2.   These methods aim at different steps within the central dogma of biology, those being DNA for CRISPR and RNA for RNAi. With a successful gene edit in the former you would not expect any expression of the target gene whereas there may be incomplete interference in the latter.***
+
 
 
 # CHEK1 dependency map
