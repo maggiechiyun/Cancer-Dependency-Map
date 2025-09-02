@@ -14,3 +14,8 @@ Create a cancer dependency map with CHEK1 as the hub. Checkpoint kinases (Chks) 
 
 ***2.   These methods aim at different steps within the central dogma of biology, those being DNA for CRISPR and RNA for RNAi. With a successful gene edit in the former you would not expect any expression of the target gene whereas there may be incomplete interference in the latter.***
 
+# Cited:
+Tsherniak, Aviad et al. “Defining a Cancer Dependency Map.” Cell vol. 170,3 (2017): 564-576.e16. doi:10.1016/j.cell.2017.06.010 https://pubmed.ncbi.nlm.nih.gov/28753430/ 
+<img width="635" height="359" alt="image" src="https://github.com/user-attachments/assets/8e79bb1e-3f7f-4a2f-8791-700d50c246bb" />
+
+
