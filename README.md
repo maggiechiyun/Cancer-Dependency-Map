@@ -2,7 +2,7 @@
 Files from DepMap Public 24Q4 corresponding to the effects a gene has on a cell-line’s growth in CRISPR knockout and RNAi screens, respectively.
 CRISPRGeneEffect.csv and D2 combined gene dep scores.csv files. Download the data from link inside the python files, and also run the jupyter notebook to create the cencer dependency map. 
 
-# CHEK1 dependency map
+# CHEK1 hub dependency map
 Create a cancer dependency map with CHEK1 as the hub. Checkpoint kinases (Chks) encoded as CHEK1 has a central role in coordinating the DNA damage response and therefore is an area of great interest in oncology and the development of cancer therapeutics. We found the pathway of CHEK1 along with TIMELESS, RRM1, WEE1, RRM2, POLE genes, which could potentially be a target new drug.
 
 <img width="367" height="289" alt="image" src="https://github.com/user-attachments/assets/a7b5f444-e6af-4106-8006-38b5889a7a35" />
